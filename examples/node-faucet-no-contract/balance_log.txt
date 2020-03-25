@@ -1,0 +1,20 @@
+  % To  % Total    % Received % Xf e t ra%  d%  l%  T   To AtvT eaol  r toa%at l gae   SlpRe%  e de       cTi%m eei RveR %ec ed e c Ri eeTvcedi i%ev% iem vXfeeddeX  %  f%X ferr   edXd r f T e diArAvv mdee e rAr  Ava ageeCvg rueeSarrpg aegeSreepee  nedStSdp
+ p e e  e  ed Td  i   mT   e  i T m i eTm   ie  m    e T      iT   imTm  eei   m   eT   i   m    eT   i  m  Te Ti   i  m C em  u e r    TrC  ieu Cmn ruet r
+ rDrleonae t dn 
+C   tu   
+U   pr  l  or   e a   dn  t   
+                  T    o   t          a     l                   S      p    e  n  t             Left         S    p   e  DDe l l odo  aa 
+d d       U Dp l lU o0p ao  ald  d D o laU  dpo  l a T od 0a oT  dotUt p a all lo   aT 0 od   t   a SS  pplT e en  t0o  tnS  pat l   e   L  0e n  ftS  t p L   ee  0fn S t t  pL   e eSf  etp   deL  
+ee0Sd fp
+  te  e 0  d    
+ S  p00   e   -e0 -d : 
+-  0 -  0 :    - 0 0  -       0 0  -    -  :   -00     - 00:   -    -    0 0  0   -  0 -   :   -  -  0 :  - 00 -  0     0        0                  00 0 0        0            0   0    0 0  - - ---:--- ::- :0 -----: ---::------:-: - ------ -::-:---:----:---::---  ---  ----:-::--------::::-------- :  -    -          000   0100    57  100    57    0     0   4406      0 --:--:-- --:--:-- --:--:--  4750
+invalid content type, only application/json is supported
+1100    57  100    57    0     0   4290      0 --:--:-- --:--:-- --:--:--  4384
+10invalid content type, only application/json is supported
+00 0     57  100    57    0     0   4344      0 --:--:-- --:--:-- --:--:--  4384
+ invalid content type, only application/json is supported
+ 57  100    57    0     0   4383      0 --:--:-- --:--:-- --:--:--  4750
+invalid content type, only application/json is supported
+100    57  100    57    0     0   3577      0 --:--:-- --:--:-- --:--:--  3800
+invalid content type, only application/json is supported
